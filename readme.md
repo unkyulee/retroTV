@@ -20,6 +20,27 @@ I have built the wooden framed enclosure previously. Wanted to upgrade to make i
 Materials can vary and the 3D printed enclosures can differ in dimensions. Please, use this guide to understand the approach to get the result you want. Using the exact material in this guide, may not be the optimal choice. You may have old laptops that have different type of display and discovering the controller board will be different than what I have.
 
 
+# Design Files
+
+STL location goes here.
+
+
+
+# Design Concept
+
+<img src="./images/design-001.png" width="600" />
+
+I wanted to make a little TV that indicates clearly that it's a TV. Giving an expectation that the display will show the TV contents. 
+
+Reusing the wooden frames from the previous build. Extending spaces to place a speaker and a remote controller holder. 
+
+Previous build with a simple wooden frame already looked quite nice. But it was difficult to understand what it does. Leading to confuse the usage of the device. When it looks like a TV. Natural expections would be find a contents to watch. Looking for a channel changes and volume controls. Exposing the google tv remote control in a place where typical old TV had a channel and volume controls. Would make it intuitive and simplifies the user to find its purpose. Making it easier for them to interact and fun to explore its features.
+
+Looks good, but what is it? 
+
+this is the question I was often getting. Wanted to make it very clear that's it's a TV. So, look for a power switch and then interact it with it to find a TV contens to watch. Constraining the possibilities may feel like killing the potential of the components. But users will have much easier time perceiving the device and much quicker to find what to look for.
+
+Does it look like a TV for you? 
 
 # Harvesting Components from an old Laptop
 
